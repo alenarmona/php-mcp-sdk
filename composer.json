@@ -1,5 +1,5 @@
 {
-  "name": "dalehurley/php-mcp-sdk",
+  "name": "alenarmona/php-mcp-sdk",
   "description": "Model Context Protocol (MCP) implementation for PHP",
   "type": "library",
   "license": "MIT",
@@ -9,7 +9,7 @@
       "email": "your.email@example.com"
     }
   ],
-  "homepage": "https://github.com/dalehurley/php-mcp-sdk",
+  "homepage": "https://github.com/alenarmona/php-mcp-sdk",
   "keywords": [
     "mcp",
     "model-context-protocol",
